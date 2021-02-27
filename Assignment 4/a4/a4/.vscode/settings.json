@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "vector": "cpp",
+        "xtree": "cpp",
+        "random": "cpp",
+        "utility": "cpp",
+        "numeric": "cpp"
+    }
+}
